@@ -85,4 +85,40 @@ like only 2$ for 1 - 4 layer PCB, you will get high quality PCB FROM [JLCPCB](ht
  PCB needs.
 
 
+![image](https://user-images.githubusercontent.com/19898602/127037160-9f016306-3488-4560-af64-5a25ac175990.png)
+
+
+First I solder the IC base on PCB, there are total 2 IC base in this project
+
+8 pin base for IC 555 & 16 pin base for 4017 IC
+
+![image](https://user-images.githubusercontent.com/19898602/127037395-8705e0fb-06a1-4340-80fe-f4a193e5c9fe.png)![image](https://user-images.githubusercontent.com/19898602/127037431-028fe5a0-851c-48a0-a351-e250c2f42156.png)
+
+Using base for IC is good practice instead of directly soldering IC to the base 
+
+because in future if accidently our IC got burn its very much easy to replace them.
+
+Then I slodered some small components like Capacitor, resistor and power LED to the PCB
+
+![image](https://user-images.githubusercontent.com/19898602/127037860-5a9bf5c0-9aa0-4965-999e-914025474887.png)
+
+Then I solder this 10k ohm potentiometer to the PCB 
+
+this the magic component of this project by rotating this potentiometer we can change the LED chaser speed.
+
+basically the change in resistance provided by this potentiometer the charging and discharging time of 
+
+capacitor is changed due to this IC 555 IC delivery variable Square wave to IC 4017
+
+![image](https://user-images.githubusercontent.com/19898602/127038294-54235724-9dc5-480f-96fd-40f32e15cfb3.png)
+
+Then I placed our both IC’s, which are IC555 and IC4017
+
+I powered this LED chaser PCB with a mini 3.7V 300mah Battery which is quite enough for this project.
+
+this is how our LED chaser project is ready by rotating potentiometer we can get cool LED chaser effects.
+
+![MVI_4929](https://user-images.githubusercontent.com/19898602/127038849-0054aacb-ec26-45c9-9c91-0c1e8f3910cf.gif)
+
+
 
