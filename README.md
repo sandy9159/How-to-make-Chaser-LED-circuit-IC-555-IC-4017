@@ -76,11 +76,11 @@ Resistor R3 is used for current limiting. Only one resistor is required for limi
 
 
 First of all I design the PCB in Easy EDA PCB designing platform 
-I have order PCB from ![image](https://user-images.githubusercontent.com/19898602/127036400-a2b4b22f-4b1c-42c4-823b-22eac63dc52f.png)
-because ![image](https://user-images.githubusercontent.com/19898602/127036423-dfe9720a-00a5-4fa1-a10f-281f479d19f1.png) have very affordable rates for PCB 
+I have order PCB from [JLCPCB](https://jlcpcb.com/IAT )
+because [JLCPCB](https://jlcpcb.com/IAT ) have very affordable rates for PCB 
 
-like only 2$ for 1 - 4 layer PCB, you will get high quality PCB FROM ![image](https://user-images.githubusercontent.com/19898602/127036627-5726097b-a81d-4128-b1bb-186724a94120.png)
- in very short time you can surly can consider ![image](https://user-images.githubusercontent.com/19898602/127036677-db75a7f0-b7b6-40d5-890a-79db6516f316.png) or your future
+like only 2$ for 1 - 4 layer PCB, you will get high quality PCB FROM [JLCPCB](https://jlcpcb.com/IAT )
+ in very short time you can surly can consider [JLCPCB](https://jlcpcb.com/IAT ) for your future
  
  PCB needs.
 
