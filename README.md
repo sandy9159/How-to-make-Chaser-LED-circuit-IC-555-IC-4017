@@ -80,9 +80,9 @@ I have order PCB from [JLCPCB](https://jlcpcb.com/IAT )
 because [JLCPCB](https://jlcpcb.com/IAT ) have very affordable rates for PCB 
 
 like only 2$ for 1 - 4 layer PCB, you will get high quality PCB FROM [JLCPCB](https://jlcpcb.com/IAT )
- in very short time you can surly can consider [JLCPCB](https://jlcpcb.com/IAT ) for your future
+ in very short time you can surly can consider [JLCPCB](https://jlcpcb.com/IAT ) for your future PCB needs.
  
- PCB needs.
+ 
 
 
 ![image](https://user-images.githubusercontent.com/19898602/127037160-9f016306-3488-4560-af64-5a25ac175990.png)
